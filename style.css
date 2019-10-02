@@ -1,0 +1,46 @@
+table{
+    width: 400px;
+    border: solid black 1px;
+}
+
+.H{
+    background-color: orangered;
+    color: green;
+    text-align: center;
+}
+#color{
+    text-decoration: none;
+    color: green;
+}
+.paars{
+    background-color: #cc66ff;
+    text-align: center;
+}
+.black{
+    text-decoration: none;
+    color: black;
+}
+.blauw{
+    background-color: aqua;
+    text-align: center;
+}
+.geel{
+    background-color: yellow;
+    text-align: center;
+}
+
+.H:hover{
+    background-color: #6699ff;
+}
+.paars:hover{
+    background-color: gold;
+}
+.blauw:hover{
+    background-color: #ff3300;
+}
+.geel:hover{
+    background-color: #66ff33;
+}
+td{
+    cursor:pointer;
+}
